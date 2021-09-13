@@ -36,6 +36,8 @@ body{
 .sidebar:hover .nav_list .nav_link a{
 	display: inline-block;
 	transition: visibility 0.7s, opacity 0.5s linear;
+	color: #fff;
+	text-decoration: none;
 }
 
 
